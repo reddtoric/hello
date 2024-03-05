@@ -33,7 +33,7 @@ Almost all of the time (>80%), if not all, when Apex Legends get an update. Some
 
 **None.** Nothing that I could find.
 
-Whent the issue happens, I have to close out Apex (even in the middle of a match), disable the setting, and restart Apex.
+When the issue happens, I have to close out Apex (even in the middle of a match), disable the setting, and restart Apex.
 
 ## Images
 
