@@ -17,6 +17,7 @@ EA Launcher's In-game overlay keeps being reset/renabled by itself in certain si
 EA Launcher's In-game overlay **\*STAYS\*** disabled or enabled by the user's preference.
 
 ## Steps to reproduce
+
 1. Disable the in-game overlay. (In EA Launcher > Menu > Settings > Application > In-game overlay).
 2. Apex's video setting - **Display Mode** is set to "Borderless Window".
 3. Have an update for Apex Legends.
